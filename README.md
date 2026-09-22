@@ -69,9 +69,4 @@ If a simpler model achieves an exceptional fit ($R^2 > 0.999$), the search space
 - Python 3.8+
 - `numpy`, `scipy`, `matplotlib`, `PyQt5`, `numba`, `lmfit` (if applicable)
 
-### Installation
-```bash
-git clone [https://github.com/m1chal0/ColeFIT.git](https://github.com/m1chal0/ColeFIT.git)
-cd ColeFIT
-pip install -r requirements.txt
-python colefit_main.py
+This software is still in a development. It contains some experimental data evaluation techniques which function are not fully optimized (Globat Fit, Chain Fit and Error Map)
