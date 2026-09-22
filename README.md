@@ -11,7 +11,7 @@ The software fits a generalized **Havriliak-Negami (HN) model combined with a DC
   - Frequency vs. Imaginary Permittivity ($\varepsilon''$)
   - Frequency vs. Real Permittivity ($\varepsilon'$)
   - Cole-Cole plot ($\varepsilon'$ vs. $\varepsilon''$)
-  - *[Insert Screenshot of GUI here]*
+  - ![image](https://github.com/m1chal0/Colefit-1.2/blob/main/colefit.jpg)
 - **Intelligent Fitting & Deconvolution**:
   - **Automatic Model Selection**: Automatically determines the true physical number of relaxation peaks (1 to 3) using the Bayesian Information Criterion (BIC) to strictly prevent mathematical overfitting.
   - **Robust Optimization**: Utilizes a combination of Genetic Algorithms (Differential Evolution) for global parameter searching and Non-Linear Least Squares (Levenberg-Marquardt) for high-precision polishing.
