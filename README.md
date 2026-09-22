@@ -1,3 +1,4 @@
+![image](https://github.com/m1chal0/Colefit-1.2/blob/main/poster_up.png)
 # ColeFIT 1.2: Broadband Dielectric Spectroscopy Analysis Software
 
 This software was presented on the 2026 IEEE International Conference on High Voltage Engineering and Application (ICHVE 2026) in the paper titled **Broadband Dielectric Spectroscopy Analysis of Nanocomposites using ColeFIT Automation Software** - Ondřej Michal, Zdeněk Frána, Pavel Trnka, Jaroslav Hornak
@@ -74,3 +75,5 @@ If a simpler model achieves an exceptional fit ($R^2 > 0.999$), the search space
 - `numpy`, `scipy`, `matplotlib`, `PyQt5`, `numba`, `lmfit` (if applicable)
 
 This software is still in a development. It contains some experimental data evaluation techniques which function are not fully optimized (Globat Fit, Chain Fit and Error Map)
+
+![image](https://github.com/m1chal0/Colefit-1.2/blob/main/poster_down.png)
