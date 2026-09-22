@@ -1,5 +1,7 @@
 # ColeFIT 1.2: Broadband Dielectric Spectroscopy Analysis Software
 
+This software was presented on the 2026 IEEE International Conference on High Voltage Engineering and Application (ICHVE 2026) in the paper titled **Broadband Dielectric Spectroscopy Analysis of Nanocomposites using ColeFIT Automation Software** - Ondřej Michal, Zdeněk Frána, Pavel Trnka, Jaroslav Hornak
+
 ## 1. Overview
 **ColeFIT** is a specialized, open-source scientific software tool designed for the automated analysis and deconvolution of Broadband Dielectric Spectroscopy (BDS) data. It replaces manual, bias-prone curve-fitting with a fast, repeatable algorithmic process. 
 
@@ -11,7 +13,9 @@ The software fits a generalized **Havriliak-Negami (HN) model combined with a DC
   - Frequency vs. Imaginary Permittivity ($\varepsilon''$)
   - Frequency vs. Real Permittivity ($\varepsilon'$)
   - Cole-Cole plot ($\varepsilon'$ vs. $\varepsilon''$)
-  - ![image](https://github.com/m1chal0/Colefit-1.2/blob/main/colefit.jpg)
+
+![image](https://github.com/m1chal0/Colefit-1.2/blob/main/colefit.jpg)
+
 - **Intelligent Fitting & Deconvolution**:
   - **Automatic Model Selection**: Automatically determines the true physical number of relaxation peaks (1 to 3) using the Bayesian Information Criterion (BIC) to strictly prevent mathematical overfitting.
   - **Robust Optimization**: Utilizes a combination of Genetic Algorithms (Differential Evolution) for global parameter searching and Non-Linear Least Squares (Levenberg-Marquardt) for high-precision polishing.
