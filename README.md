@@ -1,10 +1,16 @@
 ![image](https://github.com/m1chal0/Colefit-1.2/blob/main/poster_up.png)
 # ColeFIT 1.2: Broadband Dielectric Spectroscopy Analysis Software
 
-[!NOTE]
-This software was presented on the 2026 IEEE International Conference on High Voltage Engineering and Application (ICHVE 2026) in the paper titled **Broadband Dielectric Spectroscopy Analysis of Nanocomposites using ColeFIT Automation Software** - Ondřej Michal, Zdeněk Frána, Pavel Trnka, Jaroslav Hornak. In the spirit of Open Science and to support transparency and reproducibility in dielectric spectroscopy research,
-the ColeFIT software will be made freely available to the scientific community via a public GitHub repository (https://github.com/m1chal0). By providing an open-source platform, we aim to encourage collaborative methodological improvements and rigorous algorithmic validation. Nevertheless, it must be strongly emphasized that while advanced algorithms can significantly streamline the spectral deconvolution process,
-they cannot replace fundamental physical interpretation. Accurate interpretation of dielectric spectra and linking math to molecular dynamics still depends on the expertise of a qualified materials scientist.
+## 🎓 About & Acknowledgment
+
+This software was presented at the **2026 IEEE International Conference on High Voltage Engineering and Application (ICHVE 2026)** in the paper titled: 
+> *"Broadband Dielectric Spectroscopy Analysis of Nanocomposites using ColeFIT Automation Software"* – Ondřej Michal, Zdeněk Frána, Pavel Trnka, Jaroslav Hornak. 
+
+In the spirit of Open Science and to support transparency and reproducibility in dielectric spectroscopy research, the ColeFIT software is made freely available to the scientific community via this public GitHub repository ([github.com/m1chal0](https://github.com/m1chal0)). By providing an open-source platform, we aim to encourage collaborative methodological improvements and rigorous algorithmic validation.
+
+> [!IMPORTANT]
+> **Scientific Disclaimer**
+> It must be strongly emphasized that while advanced algorithms can significantly streamline the spectral deconvolution process, they cannot replace fundamental physical interpretation. Accurate interpretation of dielectric spectra and linking math to molecular dynamics still depends on the expertise of a qualified materials scientist.
 
 ## 1. Overview
 **ColeFIT** is a specialized, open-source scientific software tool designed for the automated analysis and deconvolution of Broadband Dielectric Spectroscopy (BDS) data. It replaces manual, bias-prone curve-fitting with a fast, repeatable algorithmic process. 
